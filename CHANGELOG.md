@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.2.1"></a>
+## [1.2.1](/compare/v1.2.0...v1.2.1) (2018-07-24)
+
+
+### Bug Fixes
+
+* **a.html:** Remove a.html from project 7ed5a40
+
+
+
 <a name="1.2.0"></a>
 # [1.2.0](/compare/v1.1.0...v1.2.0) (2018-07-24)
 
