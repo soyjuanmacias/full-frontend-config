@@ -1,3 +1,5 @@
 # Full Frontend Config Boilerplate
 
-Add description
+### Instalado
+- commitizen && cz-conventional-changelog
+- standard-version
