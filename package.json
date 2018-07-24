@@ -4,7 +4,8 @@
   "description": "Full frontend config boilerplate, at first, made for React.js. Including all tools necesary for a full-focus work on code.",
   "scripts": {
     "start": "",
-    "commit": "git-cz"
+    "commit": "git-cz",
+    "release": "standard-version"
   },
   "keywords": [
     "frontend",
@@ -17,7 +18,8 @@
   "dependencies": {},
   "devDependencies": {
     "commitizen": "^2.10.1",
-    "cz-conventional-changelog": "^2.1.0"
+    "cz-conventional-changelog": "^2.1.0",
+    "standard-version": "^4.4.0"
   },
   "config": {
     "commitizen": {
