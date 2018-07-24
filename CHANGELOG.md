@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="0.3.0"></a>
+# [0.3.0](https://github.com/soyjuanmacias/full-frontend-config/compare/v0.2.0...v0.3.0) (2018-07-24)
+
+
+### Bug Fixes
+
+* **css:** fix hexadecimal color ([2b07d69](https://github.com/soyjuanmacias/full-frontend-config/commit/2b07d69))
+
+
+### Features
+
+* **config:** add stylelint and lint-staged config ([4804c74](https://github.com/soyjuanmacias/full-frontend-config/commit/4804c74))
+
+
+
 <a name="0.2.0"></a>
 # [0.2.0](https://github.com/soyjuanmacias/full-frontend-config/compare/v0.1.2...v0.2.0) (2018-07-24)
 
