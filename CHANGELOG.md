@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.2.6"></a>
+## [1.2.6](/compare/v1.2.5...v1.2.6) (2018-07-24)
+
+
+### Bug Fixes
+
+* **New file:** Add new file a.html fad9fb7, closes #1
+
+
+
 <a name="1.2.5"></a>
 ## [1.2.5](/compare/v1.2.4...v1.2.5) (2018-07-24)
 
