@@ -1,0 +1,21 @@
+# https://eslint.org/docs/rules/
+extends: react-app
+root: true
+parserOptions:
+  ecmaFeatures:
+    spread: true
+rules:
+  quotes:
+    - error
+    - single
+  semi: error
+  comma-dangle:
+    - error
+    - always-multiline
+  no-warning-comments:
+    - 1
+    - terms:
+        - todo
+        - fixme
+        - hack
+      location: start
