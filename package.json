@@ -1,0 +1,22 @@
+{
+  "name": "full-frontend-config",
+  "version": "0.0.0",
+  "description": "Full frontend config boilerplate, at first, made for React.js. Including all tools necesary for a full-focus work on code.",
+  "scripts": {
+    "start": "",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "commit": "git-cz"
+  },
+  "keywords": [
+    "frontend",
+    "config",
+    "tool",
+    "boilerplate"
+  ],
+  "author": "Juan Macías",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "commitizen": "^2.10.1"
+  }
+}

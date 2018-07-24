@@ -1,0 +1,15 @@
+# Logs
+logs
+*.log
+
+# Dist files
+dist
+
+# Dependencies directory
+node_modules
+
+# OSX
+.DS_Store
+
+# NPM
+npm-debug.log.*

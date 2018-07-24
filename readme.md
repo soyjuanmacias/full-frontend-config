@@ -1,0 +1,1 @@
+# Full Frontend Config Boilerplate
