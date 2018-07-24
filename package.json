@@ -1,6 +1,6 @@
 {
   "name": "full-frontend-config",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Full frontend config boilerplate, at first, made for React.js. Including all tools necesary for a full-focus work on code.",
   "scripts": {
     "start": "",
